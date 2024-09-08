@@ -1,0 +1,19 @@
+[0.849s] Invoking command in '/home/mech1/turtle/turtle_ws/build/nav_pkg': PYTHONPATH=/home/mech1/turtle/turtle_ws/build/nav_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/turtle/turtle_ws/install/nav_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mech1/turtle/turtle_ws/build/nav_pkg/build --no-deps symlink_data
+[1.166s] running develop
+[1.167s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.167s]   warnings.warn(
+[1.404s] running egg_info
+[1.404s] writing nav_pkg.egg-info/PKG-INFO
+[1.404s] writing dependency_links to nav_pkg.egg-info/dependency_links.txt
+[1.404s] writing entry points to nav_pkg.egg-info/entry_points.txt
+[1.404s] writing requirements to nav_pkg.egg-info/requires.txt
+[1.405s] writing top-level names to nav_pkg.egg-info/top_level.txt
+[1.407s] reading manifest file 'nav_pkg.egg-info/SOURCES.txt'
+[1.408s] writing manifest file 'nav_pkg.egg-info/SOURCES.txt'
+[1.409s] running build_ext
+[1.409s] Creating /home/mech1/turtle/turtle_ws/install/nav_pkg/lib/python3.10/site-packages/nav-pkg.egg-link (link to .)
+[1.410s] Installing turtle_nav script to /home/mech1/turtle/turtle_ws/install/nav_pkg/lib/nav_pkg
+[1.410s] 
+[1.411s] Installed /home/mech1/turtle/turtle_ws/build/nav_pkg
+[1.411s] running symlink_data
+[1.454s] Invoked command in '/home/mech1/turtle/turtle_ws/build/nav_pkg' returned '0': PYTHONPATH=/home/mech1/turtle/turtle_ws/build/nav_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/turtle/turtle_ws/install/nav_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mech1/turtle/turtle_ws/build/nav_pkg/build --no-deps symlink_data

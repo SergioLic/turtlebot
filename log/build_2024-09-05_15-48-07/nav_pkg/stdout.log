@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating nav_pkg.egg-info
+writing nav_pkg.egg-info/PKG-INFO
+writing dependency_links to nav_pkg.egg-info/dependency_links.txt
+writing entry points to nav_pkg.egg-info/entry_points.txt
+writing requirements to nav_pkg.egg-info/requires.txt
+writing top-level names to nav_pkg.egg-info/top_level.txt
+writing manifest file 'nav_pkg.egg-info/SOURCES.txt'
+reading manifest file 'nav_pkg.egg-info/SOURCES.txt'
+writing manifest file 'nav_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mech1/turtle/turtle_ws/install/nav_pkg/lib/python3.10/site-packages/nav-pkg.egg-link (link to .)
+Installing turtle_nav script to /home/mech1/turtle/turtle_ws/install/nav_pkg/lib/nav_pkg
+
+Installed /home/mech1/turtle/turtle_ws/build/nav_pkg
+running symlink_data
+creating /home/mech1/turtle/turtle_ws/install/nav_pkg/share/ament_index
+creating /home/mech1/turtle/turtle_ws/install/nav_pkg/share/ament_index/resource_index
+creating /home/mech1/turtle/turtle_ws/install/nav_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/mech1/turtle/turtle_ws/build/nav_pkg/resource/nav_pkg -> /home/mech1/turtle/turtle_ws/install/nav_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/mech1/turtle/turtle_ws/build/nav_pkg/package.xml -> /home/mech1/turtle/turtle_ws/install/nav_pkg/share/nav_pkg
